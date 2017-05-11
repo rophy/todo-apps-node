@@ -2,7 +2,7 @@
 
 TodoMVC using Cloudant and Compose for MongoDB services running on Bluemix.
 
-Refer to the [README.md](../README.md) file in the parent directory
+Refer to the [README.md](https://github.com/IBM-Bluemix/todo-apps/blob/master/README.md) file in the upstream repository
 for general instructions regarding this application.
 
 ## How it Works
